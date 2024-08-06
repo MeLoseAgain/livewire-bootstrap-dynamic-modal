@@ -1,6 +1,6 @@
 <?php
 
-namespace AliQasemzadeh\LaravelLivewireModals\Components;
+namespace KaitoSaikyo\LivewireModal\Components;
 
 use Illuminate\Support\Facades\Log;
 use Livewire\Component;
